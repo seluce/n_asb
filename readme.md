@@ -13,7 +13,5 @@ We can add now almost all important security and feature patches directly in sou
 
 > DotOS 1.2
 
-> /e/ 0.1 
-
 **PLATFORM_SECURITY_PATCH**
 > PLATFORM_SECURITY_PATCH := **2019-06-05**
