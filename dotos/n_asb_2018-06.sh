@@ -51,4 +51,3 @@ cd ../..
 #cd packages/providers/UserDictionaryProvider
 #git fetch https://github.com/LineageOS/android_packages_providers_UserDictionaryProvider refs/changes/67/217067/1 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/76/217076/1 && git cherry-pick FETCH_HEAD

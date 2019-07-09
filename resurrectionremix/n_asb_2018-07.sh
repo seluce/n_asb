@@ -33,4 +33,3 @@ cd ../..
 #cd packages/apps/Bluetooth
 #git fetch https://github.com/LineageOS/android_packages_apps_Bluetooth refs/changes/61/220461/1 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/38/220438/1 && git cherry-pick FETCH_HEAD

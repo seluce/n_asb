@@ -20,4 +20,3 @@ cd ../..
 #git fetch https://github.com/LineageOS/android_system_bt refs/changes/00/240900/2 && git cherry-pick FETCH_HEAD
 #git fetch https://github.com/LineageOS/android_system_bt refs/changes/01/240901/2 && git cherry-pick FETCH_HEAD
 #cd ../..
-#git fetch https://github.com/LineageOS/android refs/changes/86/240986/1 && git cherry-pick FETCH_HEAD

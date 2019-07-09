@@ -51,4 +51,3 @@ cd ../../..
 #git fetch https://github.com/LineageOS/android_packages_apps_Messaging refs/changes/36/222636/2 && git cherry-pick FETCH_HEAD
 #git fetch https://github.com/LineageOS/android_packages_apps_Messaging refs/changes/37/222637/2 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/21/222921/1 && git cherry-pick FETCH_HEAD

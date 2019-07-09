@@ -36,4 +36,3 @@ cd ../..
 #cd system/update/engine
 #git fetch https://github.com/LineageOS/android_system_update_engine refs/changes/83/235983/2 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/99/235999/1 && git cherry-pick FETCH_HEAD

@@ -56,4 +56,3 @@ cd ../..
 #git fetch https://github.com/LineageOS/android_external_libhevc refs/changes/06/202406/1 && git cherry-pick FETCH_HEAD
 #git fetch https://github.com/LineageOS/android_external_libhevc refs/changes/07/202407/1 && git cherry-pick FETCH_HEAD
 #cd ../..
-#git fetch https://github.com/LineageOS/android refs/changes/49/202449/1 && git cherry-pick FETCH_HEAD

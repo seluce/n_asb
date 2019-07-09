@@ -44,4 +44,3 @@ cd ../..
 #cd packages/apps/UnifiedEmail
 #git fetch https://github.com/LineageOS/android_packages_apps_UnifiedEmail refs/changes/30/211330/1 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/48/212448/1 && git cherry-pick FETCH_HEAD

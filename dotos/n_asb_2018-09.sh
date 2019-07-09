@@ -35,5 +35,3 @@ cd ../..
 #cd hardware/qcom/media
 #git fetch https://github.com/LineageOS/android_hardware_qcom_media refs/changes/19/227619/1 && git cherry-pick FETCH_HEAD
 #cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/06/227406/1 && git cherry-pick FETCH_HEAD
-#git fetch https://github.com/LineageOS/android refs/changes/17/227317/2 && git cherry-pick FETCH_HEAD

@@ -48,5 +48,3 @@ cd ../..
 cd packages/apps/Settings
 git fetch https://github.com/LineageOS/android_packages_apps_Settings refs/changes/51/232151/2 && git cherry-pick FETCH_HEAD
 cd ../../..
-#git fetch https://github.com/LineageOS/android refs/changes/80/230980/3 && git cherry-pick FETCH_HEAD
-#git fetch https://github.com/LineageOS/android refs/changes/81/230981/5 && git cherry-pick FETCH_HEAD
