@@ -20,3 +20,14 @@ cd ../..
 #cd system/bt
 #git fetch https://github.com/LineageOS/android_system_bt refs/changes/66/250966/3 && git cherry-pick FETCH_HEAD
 #cd ../..
+
+## Add optional vpn nougat data restriction feature
+cd packages/apps/Settings
+git fetch https://github.com/LineageOS/android_packages_apps_Settings refs/changes/97/234097/4 && git cherry-pick FETCH_HEAD
+cd ../../..
+#cd system/netd
+#git fetch https://github.com/LineageOS/android_system_netd refs/changes/98/234098/1 && git cherry-pick FETCH_HEAD
+#cd ../..
+cd frameworks/base
+git fetch https://github.com/LineageOS/android_frameworks_base refs/changes/96/234096/5 && git cherry-pick FETCH_HEAD
+cd ../..
