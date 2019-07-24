@@ -5,8 +5,8 @@ Resurrection Remix 5.8.5 security patches
 
 adds security patch for Resurrection Remix 5.8.5
 
-- git clone the patches into device/CUBOT/NOTE_S/patches/n_asb (or use your own vendor and device name)
-- use the apply-patch file to add all security patches. you need to run the script in the directory
+- git clone the patches into device/VENDOR/CODENAME/patches/n_asb (use your own vendor and device name)
+- run the apply-patch.sh file to add all security patches. you need to run the script after repo sync 
 
 **the way to do:**
 ```
