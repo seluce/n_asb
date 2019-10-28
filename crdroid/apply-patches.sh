@@ -3,7 +3,7 @@ CURRENT_DIR=${PWD}
 
 echo -e "\n add security patches for CrDroid 3.8.9"
 sleep 1
-echo -e "\n start patching. Wait some minutes..."
+echo -e "\n start patching. Wait some minutes.. (depends on your internet connection)"
 sleep 2
 
 cd $CURRENT_DIR
