@@ -65,4 +65,4 @@ echo -e "\n bump security patch level to 2019-11-05"
 echo -e "\n script by seluce"
 
 # return to default directory 
-cd ..
+cd ../..
