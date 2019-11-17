@@ -5,14 +5,14 @@ DotOS 1.2 security patches
 
 adds security patch for DotOS 1.2
 
-- git clone the patches into device/VENDOR/CODENAME/patches/n_asb (use your own vendor and device name)
+- git clone the patches into n_asb folder
 - run the apply-patch.sh file to add all security patches. you need to run the script after repo sync 
 
 **the way to do:**
 ```
-git clone https://github.com/seluce/n_asb device/CUBOT/NOTE_S/patches/n_asb
+git clone https://github.com/seluce/n_asb n_asb
 
-cd device/CUBOT/NOTE_S/patches/n_asb/dotos
+cd n_asb/dotos
 
 . apply-patches.sh
 ```
