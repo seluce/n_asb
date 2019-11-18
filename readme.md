@@ -10,7 +10,7 @@ adds security patch for CrDroid 3.8.9
 
 **the way to do:**
 ```
-git clone https://github.com/seluce/n_asb n_asb
+git clone https://github.com/seluce/n_asb n_asb -b nougat-crdroid
 
 cd n_asb && bash apply-patches.sh
 ```
