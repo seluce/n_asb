@@ -10,7 +10,7 @@ adds security patch for Resurrection Remix 5.8.5
 
 **the way to do:**
 ```
-git clone https://github.com/seluce/n_asb n_asb
+git clone https://github.com/seluce/n_asb n_asb -b nougat-rr
 
 cd n_asb && bash apply-patches.sh
 ```
