@@ -10,7 +10,7 @@ adds security patch for DotOS 1.2
 
 **the way to do:**
 ```
-git clone https://github.com/seluce/n_asb n_asb
+git clone https://github.com/seluce/n_asb n_asb -b nougat-dotos
 
 cd n_asb && bash apply-patches.sh
 ```
