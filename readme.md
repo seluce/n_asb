@@ -12,7 +12,7 @@ adds security patch for Resurrection Remix 5.8.5
 ```
 git clone https://github.com/seluce/n_asb n_asb
 
-cd n_asb && apply-patches.sh
+cd n_asb && bash apply-patches.sh
 ```
 
 Tested it with different mediateks (MT6580 with 3.18.19 and MT6737t on 3.18.35)
