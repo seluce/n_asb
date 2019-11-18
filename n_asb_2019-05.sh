@@ -1,5 +1,5 @@
 #!/bin/bash
-cd ../..
+cd ..
 cd build
 git fetch https://github.com/LineageOS/android_build refs/changes/62/247662/1 && git cherry-pick FETCH_HEAD
 cd ..
