@@ -1,17 +1,20 @@
 Security Patches for customs ROMs
 ===========
-Security Patches for other los-based custom roms like RessurectionRemix, CrDroid, DotOS, etc.
+DotOS 1.2 security patches 
+------------------
 
-They're outdated and important monthly security fixes and bug fixes are not included.
+adds security patch for DotOS 1.2
 
-We can add now almost all important security and feature patches directly in source code
+- git clone the patches into n_asb folder
+- run the apply-patch.sh file to add all security patches. you need to run the script after repo sync 
 
-**supported nougat roms:**
-> Resurrection Remix 5.8.5
+**the way to do:**
+```
+git clone https://github.com/seluce/n_asb n_asb
 
-> CrDroid 3.8.9 
+cd n_asb/dotos
 
-> DotOS 1.2
+. apply-patches.sh
+```
 
-**PLATFORM_SECURITY_PATCH**
-> PLATFORM_SECURITY_PATCH := **2019-11-05**
+Tested it with different mediateks (MT6580 with 3.18.19 and MT6737t on 3.18.35)
