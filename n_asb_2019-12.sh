@@ -26,6 +26,6 @@ cd ..
 #cd external/ImageMagick
 #git fetch "https://github.com/LineageOS/android_external_ImageMagick" refs/changes/30/265230/1 && git cherry-pick FETCH_HEAD
 #cd ../..
-cd frameworks_base
+cd frameworks/base
 git fetch "https://github.com/LineageOS/android_frameworks_base" refs/changes/94/265194/3 && git cherry-pick FETCH_HEAD
 cd ../..
